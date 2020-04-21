@@ -2,8 +2,9 @@
 
 ### Project: TMDB Data Analysis
 
-TMDB is the dataset originated from Kaggle to be used for this investigated research. That dataset contains over 10,00 movies gathered from The Movie Database(TMDB). Consisting of of 21 columns addressing areas as revenue, budget, and popularity.
+TMDB is the dataset originated from Kaggle to be used for this investigated research. That dataset contains over 10,00 movies gathered from The Movie Database(TMDB). Consisting of of 21 columns addressing areas as revenue, budget, title, cast, director, runtime, release year etc.
 
+This data set contains information about 10,000 movies collected from The Movie Database (TMDb). Contains data such as 
 The following segment provides the research questions that guided this exploratory analysis.
 
 1) Which movie has the highest and lowest profit?
@@ -16,16 +17,14 @@ This data set contains information about 10,000 movies collected from The Movie 
 
 Certain columns, like ‘cast’ and ‘genres’, contain multiple values separated by pipe (|) characters. The final two columns ending with “_adj” show the budget and revenue of the associated movie in terms of dollars, accounting for inflation over time.
 
-### Data
+### Data Files
 
 This project contains 2 files and 2 folder:
 
-data.csv : The dataset file containing 10k+ entries of movies that I have worked on.
-report.ipynb : The investigation of the dataset has been done in this jupyter notebook file.
-export/ : Folder containing HTML and PDF file of notebook.
-plots/ : Contains images of all the plots that are displayed in report.ipynb file.
-Dataset file
-This data set contains information about 10,000 movies collected from The Movie Database (TMDb). Contains data such as title, cast, director, runtime, budget, revenue, release year etc.
+1) data.csv : The dataset file containing 10k+ entries of movies that I have worked on.
+1)report.ipynb : The investigation of the dataset has been done in this jupyter notebook file.
+1)export/ : Folder containing HTML and PDF file of notebook.
+1)plots/ : Contains images of all the plots that are displayed in report.ipynb file.
 
 ### Loading Project
 Requirements
