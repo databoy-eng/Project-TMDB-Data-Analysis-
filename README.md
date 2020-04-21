@@ -1,14 +1,14 @@
 # Investigate-a-Dataset-TMDB-Movies
 
-Udacity DAND Project - Investigate a Dataset
+Project - Investigate a Dataset
 
-Overview
+## Overview
 
-The selected dataset is TMDb Movie Data which contains information about imdb movies with their average rating, budget, revenue...etc
+TMDB is the dataset originated from Kaggle to be used for this investigated research. That dataset contains over 10,00 movies gathered from The Movie Database(TMDB). Consisting of of 21 columns addressing areas as revenue, budget, and popularity.
 
-The explored questions are:
+The following segment provides the research questions that guided this exploratory analysis.
 
-What are the Top 10 Movies by Rating?
-What is the distribution of average movies ratings?
-What is the Number of Produced Movies by Genres?
-What is the maximum production for each genre number in a year?
+Which movie has the highest and lowest profit?
+Is there a relationship between higher budgeted movies and more revenue?
+What impact do user ratings have on proft?
+Which genres demonstrates the highest profit?
