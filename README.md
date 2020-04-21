@@ -22,9 +22,9 @@ Certain columns, like ‘cast’ and ‘genres’, contain multiple values separ
 This project contains 2 files and 2 folder:
 
 1) data.csv : The dataset file containing 10k+ entries of movies that I have worked on.
-2)report.ipynb : The investigation of the dataset has been done in this jupyter notebook file.
-3)export/ : Folder containing HTML and PDF file of notebook.
-4)plots/ : Contains images of all the plots that are displayed in report.ipynb file.
+2) report.ipynb : The investigation of the dataset has been done in this jupyter notebook file.
+3) export/ : Folder containing HTML and PDF file of notebook.
+4) plots/ : Contains images of all the plots that are displayed in report.ipynb file.
 
 ### Loading Project
 Requirements
