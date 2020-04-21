@@ -17,9 +17,9 @@ This data set contains information about 10,000 movies collected from The Movie 
 
 Certain columns, like ‘cast’ and ‘genres’, contain multiple values separated by pipe (|) characters. The final two columns ending with “_adj” show the budget and revenue of the associated movie in terms of dollars, accounting for inflation over time.
 
-### Data Files
+### Data Files/Folder
 
-This project contains 2 files and 2 folder:
+This project contains 2 files and 2 folders:
 
 1) data.csv : The dataset file containing 10k+ entries of movies that I have worked on.
 2) report.ipynb : The investigation of the dataset has been done in this jupyter notebook file.
