@@ -8,10 +8,10 @@ TMDB is the dataset originated from Kaggle to be used for this investigated rese
 
 The following segment provides the research questions that guided this exploratory analysis.
 
-Which movie has the highest and lowest profit?
-Is there a relationship between higher budgeted movies and more revenue?
-What impact do user ratings have on proft?
-Which genres demonstrates the highest profit?
+1 Which movie has the highest and lowest profit?
+2 Is there a relationship between higher budgeted movies and more revenue?
+3 What impact do user ratings have on proft?
+4 Which genres demonstrates the highest profit?
 
 ### Datasets
 This data set contains information about 10,000 movies collected from The Movie Database (TMDb), including user ratings and revenue.
