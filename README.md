@@ -1,8 +1,8 @@
 # Investigate-a-Dataset-TMDB-Movies
 
-## Overview
+## 
 
-### Project - Investigate a Dataset
+### Project Overview - Investigate a Dataset
 
 TMDB is the dataset originated from Kaggle to be used for this investigated research. That dataset contains over 10,00 movies gathered from The Movie Database(TMDB). Consisting of of 21 columns addressing areas as revenue, budget, and popularity.
 
